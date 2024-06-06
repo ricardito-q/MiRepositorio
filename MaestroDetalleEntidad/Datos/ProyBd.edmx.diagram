@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="11f67041c270450687531b71eaec31b3" Name="Diagram1">
+        <EntityTypeShape EntityType="proyectoModel.categoria" Width="1.5" PointX="0.75" PointY="3" IsExpanded="true" />
+        <EntityTypeShape EntityType="proyectoModel.Cliente" Width="1.5" PointX="3.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="proyectoModel.Compra" Width="1.5" PointX="3" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="proyectoModel.DetalleCompra" Width="1.5" PointX="5.25" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="proyectoModel.DetalleVenta" Width="1.5" PointX="8.25" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="proyectoModel.DetalleVentaTemporal" Width="1.5" PointX="5.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="proyectoModel.producto" Width="1.5" PointX="3" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="proyectoModel.Proveedor" Width="1.5" PointX="0.75" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="proyectoModel.sysdiagrams" Width="1.5" PointX="7.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="proyectoModel.Venta" Width="1.5" PointX="6" PointY="10.75" IsExpanded="true" />
+        <AssociationConnector Association="proyectoModel.FK__producto__IdCate__1273C1CD" ManuallyRouted="false" />
+        <AssociationConnector Association="proyectoModel.FK__Venta__IdCliente__173876EA" ManuallyRouted="false" />
+        <AssociationConnector Association="proyectoModel.FK__Compra__IdProvee__2A4B4B5E" ManuallyRouted="false" />
+        <AssociationConnector Association="proyectoModel.FK__DetalleCo__IdCom__2D27B809" ManuallyRouted="false" />
+        <AssociationConnector Association="proyectoModel.FK__DetalleCo__IdPro__2E1BDC42" ManuallyRouted="false" />
+        <AssociationConnector Association="proyectoModel.FK__DetalleVe__IdPro__1B0907CE" ManuallyRouted="false" />
+        <AssociationConnector Association="proyectoModel.FK__DetalleVe__IdVen__1A14E395" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

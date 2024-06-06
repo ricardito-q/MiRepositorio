@@ -1,0 +1,31 @@
+D:\Educacion\Programacion Web 1\Unidad 3\Proyecto\MaestroDetalleEntidad\MaestroDetalleEntidad\bin\MaestroDetalleEntidad.dll
+D:\Educacion\Programacion Web 1\Unidad 3\Proyecto\MaestroDetalleEntidad\MaestroDetalleEntidad\bin\MaestroDetalleEntidad.pdb
+D:\Educacion\Programacion Web 1\Unidad 3\Proyecto\MaestroDetalleEntidad\MaestroDetalleEntidad\bin\EntityFramework.dll
+D:\Educacion\Programacion Web 1\Unidad 3\Proyecto\MaestroDetalleEntidad\MaestroDetalleEntidad\bin\EntityFramework.xml
+D:\Educacion\Programacion Web 1\Unidad 3\Proyecto\MaestroDetalleEntidad\MaestroDetalleEntidad\obj\Debug\MaestroDetalleEntidad.csprojResolveAssemblyReference.cache
+D:\Educacion\Programacion Web 1\Unidad 3\Proyecto\MaestroDetalleEntidad\MaestroDetalleEntidad\obj\Debug\MaestroDetalleEntidad.dll
+D:\Educacion\Programacion Web 1\Unidad 3\Proyecto\MaestroDetalleEntidad\MaestroDetalleEntidad\obj\Debug\MaestroDetalleEntidad.pdb
+D:\Educacion\Programacion Web 1\Unidad 3\Proyecto\MaestroDetalleEntidad\MaestroDetalleEntidad\obj\Debug\RdlCompile.cache
+D:\Educacion\Programacion Web 1\Unidad 3\Proyecto\MaestroDetalleEntidad\MaestroDetalleEntidad\obj\Debug\RdlCompile.compiled
+C:\Users\intel\Desktop\MaestroDetalleEntidad\MaestroDetalleEntidad\obj\Debug\MaestroDetalleEntidad.csproj.AssemblyReference.cache
+C:\Users\intel\Desktop\MaestroDetalleEntidad\MaestroDetalleEntidad\obj\Debug\RdlCompile.cache
+C:\Users\intel\Desktop\MaestroDetalleEntidad\MaestroDetalleEntidad\obj\Debug\RdlCompile.compiled
+C:\Users\intel\Desktop\MaestroDetalleEntidad\MaestroDetalleEntidad\obj\Debug\MaestroDetalleEntidad.csproj.CoreCompileInputs.cache
+C:\Users\intel\Desktop\MaestroDetalleEntidad\MaestroDetalleEntidad\obj\Debug\MaestroDetalleEntidad.dll
+C:\Users\intel\Desktop\MaestroDetalleEntidad\MaestroDetalleEntidad\obj\Debug\MaestroDetalleEntidad.pdb
+C:\Users\intel\Desktop\MaestroDetalleEntidad\MaestroDetalleEntidad\bin\MaestroDetalleEntidad.dll.config
+C:\Users\intel\Desktop\MaestroDetalleEntidad\MaestroDetalleEntidad\bin\MaestroDetalleEntidad.dll
+C:\Users\intel\Desktop\MaestroDetalleEntidad\MaestroDetalleEntidad\bin\MaestroDetalleEntidad.pdb
+C:\Users\intel\Desktop\MaestroDetalleEntidad\MaestroDetalleEntidad\bin\EntityFramework.dll
+C:\Users\intel\Desktop\MaestroDetalleEntidad\MaestroDetalleEntidad\bin\EntityFramework.xml
+C:\Users\intel\Desktop\MaestroDetalleEntidad\MaestroDetalleEntidad\obj\Debug\MaestroDetalleEntidad.csproj.CopyComplete
+E:\MaestroDetalleEntidad\MaestroDetalleEntidad\bin\MaestroDetalleEntidad.dll.config
+E:\MaestroDetalleEntidad\MaestroDetalleEntidad\bin\MaestroDetalleEntidad.dll
+E:\MaestroDetalleEntidad\MaestroDetalleEntidad\bin\MaestroDetalleEntidad.pdb
+E:\MaestroDetalleEntidad\MaestroDetalleEntidad\bin\EntityFramework.dll
+E:\MaestroDetalleEntidad\MaestroDetalleEntidad\bin\EntityFramework.xml
+E:\MaestroDetalleEntidad\MaestroDetalleEntidad\obj\Debug\MaestroDetalleEntidad.csproj.AssemblyReference.cache
+E:\MaestroDetalleEntidad\MaestroDetalleEntidad\obj\Debug\MaestroDetalleEntidad.csproj.CoreCompileInputs.cache
+E:\MaestroDetalleEntidad\MaestroDetalleEntidad\obj\Debug\MaestroDetalleEntidad.csproj.CopyComplete
+E:\MaestroDetalleEntidad\MaestroDetalleEntidad\obj\Debug\MaestroDetalleEntidad.dll
+E:\MaestroDetalleEntidad\MaestroDetalleEntidad\obj\Debug\MaestroDetalleEntidad.pdb
