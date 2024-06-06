@@ -14,7 +14,7 @@ namespace MaestroDetalleEntidad
         {
 
         }
-
+// este es un medoto que actualiza
 
         public void refreshdata()
         {
