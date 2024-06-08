@@ -1,14 +1,17 @@
+const { rejects } = require('assert');
 const colors = require('colors');
 const fs = require('fs');
+const { resolve } = require('path');
 
 const creararchivo = (base = 5) => {
 //  return new promise ()
+
 let salida = '';
-salida +=('======================'.red);
-salida +=('||                   ||'.red);
-salida +=('||    tabla del  '.red, colors.blue(base), colors.red("||"));
-salida +=('||                   ||'.red);
-salida +=('======================'.red);
+salida +='======================'+ '\n';
+salida +='||                   ||'+ '\n';
+salida +='||    tabla del  '+  base.toString()+'\n';
+salida +=('||                   ||'+ '\n');
+salida +=('======================'+ '\n');
 
     
     for (let i = 1; i <= 10; i++) {
@@ -16,10 +19,11 @@ salida +=('======================'.red);
         salida += `${base} x ${i} =${base * i} \n`.green;
 
     }
-    fs.writeFile(`\salida.txt`, salida, (err) => {
+    fs.writeFile(`salida/salida.txt`, salida, (err) => {
         if (err) throw err;
         console.log('archivo creado exitosamente');
     });
+
 }
 module.exports={
     creararchivo
