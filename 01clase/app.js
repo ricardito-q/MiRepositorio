@@ -1,3 +1,3 @@
 const { creararchivo } = require("./helpers/multiplicar");
-const num=10;
+const num=15;
 creararchivo(num);

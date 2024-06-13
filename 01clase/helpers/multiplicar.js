@@ -9,9 +9,9 @@ const creararchivo = (base = 5) => {
 let salida = '';
 salida +='======================'+ '\n';
 salida +='||                   ||'+ '\n';
-salida +='||    tabla del  '+  base.toString()+'\n';
-salida +=('||                   ||'+ '\n');
-salida +=('======================'+ '\n');
+salida += '||    tabla del ' + base.toString().padEnd(5) + '||' + '\n';
+salida +='||                   ||'+ '\n';
+salida +='======================'+ '\n';
 
     
     for (let i = 1; i <= 10; i++) {
